@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.springbootweb</groupId>
-    <artifactId>springbootweb</artifactId>
+    <artifactId>SpringBootWeb</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Spring Boot Web</name>
